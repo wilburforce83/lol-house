@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "pigpio": "^3.3.1",
+    "socket.io": "^4.7.2"
+  },
+  "name": "lol-house",
+  "version": "1.0.0",
+  "description": "LOL doll house control system for my daughter",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "LOL",
+    "doll"
+  ],
+  "author": "Will Shearer",
+  "license": "ISC"
+}
